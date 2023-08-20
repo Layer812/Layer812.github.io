@@ -1,0 +1,5 @@
+baseurl: ""
+url: "https:Layer812.github.io"
+theme: theme.minima
+plugins:
+  - jekyll-sitemap
