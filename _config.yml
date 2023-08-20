@@ -3,3 +3,6 @@ url: "https:Layer812.github.io"
 theme: minima
 plugins:
   - jekyll-sitemap
+header_pages:
+  - about.md
+  - portfolio.md
